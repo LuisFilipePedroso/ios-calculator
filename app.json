@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ios-calculator",
+    "slug": "ios-calculator",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
